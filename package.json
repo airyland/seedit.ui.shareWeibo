@@ -1,0 +1,26 @@
+{
+  "family": "seedit",
+  "name": "shareWeibo",
+  "version": "0.0.1",
+  "description": "share weibo widget",
+  "homepage": "https://github.com/airyland/seedit.ui.shareWeibo",
+  "author": "airyland",
+  "maintainers": [
+    "airyland"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airyland/seedit.ui.shareWeibo.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["shareWeibo.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
